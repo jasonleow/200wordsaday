@@ -1,8 +1,8 @@
 title: My 200 Words A Day archive
-author: John Doe
+author: Jason Leow
 email: 
 description: > # this means to ignore newlines until "show_exerpts:"
-  My archive of writings from 200 Words A Day.
+  My archive of daily writings from 200 Words A Day. 7 Dec 2018 - 8 Dec 2020.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -10,8 +10,8 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: John Doe
-  tagline: 200 Words A Day archive.
+  name: Jason Leow
+  tagline: 200 Words A Day archive. 7 Dec 2018 - 8 Dec 2020.
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
