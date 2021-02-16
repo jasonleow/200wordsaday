@@ -11,7 +11,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Jason Leow
-  tagline: 200 Words A Day archive for 2 full years. 731 days of unbroken consecutive days of writing. 7 Dec 2018 - 8 Dec 2020.
+  tagline: 200 Words A Day archive for 2 full years. 731 days of unbroken consecutive days of writing. 7 Dec 2018 - 8 Dec 2020. I now write daily on https://golifelog.com
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
